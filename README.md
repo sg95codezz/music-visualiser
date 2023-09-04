@@ -10,3 +10,7 @@ How to use this?
   3. Play the uploaded audio
   4. Enjoy the dynamic visualization!
 
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
