@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/music-visualiser/static/css/main.6152728b.css",
+    "main.js": "/music-visualiser/static/js/main.d04df07f.js",
+    "static/media/cosmos.jpeg": "/music-visualiser/static/media/cosmos.edebbc693dbb1a7860de.jpeg",
+    "static/media/earth.png": "/music-visualiser/static/media/earth.46294d288135faa75c91.png",
+    "index.html": "/music-visualiser/index.html",
+    "main.6152728b.css.map": "/music-visualiser/static/css/main.6152728b.css.map",
+    "main.d04df07f.js.map": "/music-visualiser/static/js/main.d04df07f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6152728b.css",
+    "static/js/main.d04df07f.js"
+  ]
+}
