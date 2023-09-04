@@ -5,7 +5,8 @@ This is a React project which is about Dynamic visualization of any audio upload
 This is done using Web Audio API and HTML Canvas.
 
 How to use this?
-  1. Upload an audio
-  2. Play the uploaded audio
-  3. Enjoy the dynamic visualization!
+  1. Start the application
+  2. Upload an audio
+  3. Play the uploaded audio
+  4. Enjoy the dynamic visualization!
 
